@@ -20,7 +20,7 @@ The computer shows you the number 40 (this is X):
 
 The computer shows you the number 32 (this is X):
     - You guess that Y is higher
-        You are correct! The actual value of Y is 12, and so you earn 0 points.
+        You are incorrect. The actual value of Y is 12, and so you earn 0 points.
 
 The computer shows you the number 70 (this is X):
     - You guess that Y is higher

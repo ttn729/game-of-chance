@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Game from '../components/Game'
 
 export default function Home() {
   return (
@@ -14,8 +15,11 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          Get started by choosing higher or lower.
+          Get points by choosing higher or lower. How many can you get in 10 rounds?
         </p>
+
+        <Game />
+
       </main>
 
       <style jsx>{`
