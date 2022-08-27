@@ -15,7 +15,9 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          Get points by choosing higher or lower. How many can you get in 10 rounds?
+          Get points by guessing correctly if Y is higher or lower than X. <br></br>
+          
+          How many can you get in 10 rounds?
         </p>
 
         <Game />
