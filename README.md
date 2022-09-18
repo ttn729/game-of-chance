@@ -1,4 +1,5 @@
 A Game of Chance
+https://game-of-chance.vercel.app/
 
 You have the opportunity to play the game that is described below.
 
@@ -25,5 +26,9 @@ The computer shows you the number 32 (this is X):
 The computer shows you the number 70 (this is X):
     - You guess that Y is higher
         You are correct! The actual value of Y is 13, and so you earn 13 points.        
+
+
+![image](https://user-images.githubusercontent.com/89943158/190884418-4e893119-985b-4869-b895-f2dfdad041a9.png)
+
 
 
